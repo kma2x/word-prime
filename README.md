@@ -61,5 +61,5 @@ In this demo version there is a level for guessing huts, summits and lakes from 
 
 Licensed under the incredibly permissive MIT license
 
-Copyright © 2020 Marc Güell Segarra
+Copyright © 2022 HOANLN
 
